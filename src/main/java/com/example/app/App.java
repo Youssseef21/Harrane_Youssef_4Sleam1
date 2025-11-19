@@ -7,6 +7,6 @@ public class App {
 	}
 
 	public static String getGreeting() {
-		return "Hello, Maven project!";
+		return "Hello, ct!";
 	}
 }
